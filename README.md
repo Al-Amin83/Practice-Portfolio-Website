@@ -107,18 +107,3 @@ This project helps developers practice:
 * Project filtering system
 * Animation effects
 * Backend integration for contact form
-
-## 👨‍💻 Author
-
-**Md. Al-Amin Hossain**
-
-Aspiring Full Stack Web Developer passionate about creating responsive and user-friendly web applications.
-
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome.
-
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Submit a pull request
